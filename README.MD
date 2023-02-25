@@ -1,5 +1,4 @@
 ## Customer Segmentation Report for Arvato Financial Services
-Overview
 This report provides a customer segmentation analysis for Arvato Financial Services, a mail-order sales company. The goal of this analysis is to identify customer segments that are most likely to respond to a marketing campaign and become customers.
 
 ### Dataset
