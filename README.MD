@@ -44,4 +44,4 @@ Future work could include refining the segmentation analysis by incorporating ad
 This analysis was performed by Seun for Arvato Financial Services as a part of Udacity Data Science NanoDegree. The data used in this analysis was provided by Arvato Financial Services.
 
 
-Check out my Medium post about the project [here](https://medium.com/@seunshix/customer-segmentation-report-for-arvato-financial-services-ce7e7b91c89a)
+** Check out my Medium post about the project [here](https://medium.com/@seunshix/customer-segmentation-report-for-arvato-financial-services-ce7e7b91c89a) **
