@@ -18,7 +18,7 @@ The analysis was performed in several stages:
 5. Validation: The segments were validated by comparing them to the general population dataset.
 
 ### Results
-The analysis identified sEeven(7) customer segments, each with unique characteristics and differences. The segments were validated by comparing them to the general population dataset, which showed that some segments were overrepresented while others were underrepresented.
+The analysis identified seven(7) customer segments, each with unique characteristics and differences. The segments were validated by comparing them to the general population dataset, which showed that some segments were overrepresented while others were underrepresented.
 
 ### Recommendations
 Based on the results of the analysis, we recommend that Arvato Financial Services target marketing campaigns to the segments that are overrepresented in their customer base, while also considering strategies to attract customers from underrepresented segments.
